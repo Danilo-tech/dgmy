@@ -44,6 +44,7 @@
         @inertiaHead
     </head>
     <body class="font-sans antialiased">
+        HOLLLA
         @inertia
     </body>
 </html>
